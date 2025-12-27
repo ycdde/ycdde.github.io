@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Zhen Xu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Electrical and Computer Engineering MS student at The Ohio State University. Research interests include AI hardware, neuromorphic computing, and embedded systems."
+  location         : "Columbus, Ohio, USA"
   employer         : "The Ohio State University"
   uri              : # URL
   email            : "xu.5755@osu.edu" 
