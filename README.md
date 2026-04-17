@@ -1,1 +1,3 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+This repository contains the source code for Zhen Xu's personal GitHub Pages website.
+
+The homepage is `index.html`, shared styling lives in `stylesheet.css`, and static files such as images, PDFs, and bio files live in `images/` and `data/`.
