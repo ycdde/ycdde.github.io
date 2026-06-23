@@ -273,20 +273,19 @@ h2 {
 }
 
 .publication-content .authors-brief {
-  margin-bottom: 4px;
+  margin: 0;
 }
 
 .author-details {
-  margin: -2px 0 8px;
+  margin: 7px 0 8px;
   color: var(--ink-soft);
   font-size: 13px;
   line-height: 1.42;
 }
 
 .author-details summary {
-  display: inline-flex;
-  color: var(--clay);
-  font-weight: 700;
+  display: inline;
+  color: var(--ink-soft);
   cursor: pointer;
   list-style: none;
 }
@@ -297,9 +296,19 @@ h2 {
 
 .author-details summary:hover,
 .author-details summary:focus {
+  color: var(--ink-soft);
+}
+
+.author-details summary:hover .author-toggle,
+.author-details summary:focus .author-toggle {
   color: var(--clay-deep);
   text-decoration: underline;
   text-decoration-color: rgba(159, 75, 50, 0.35);
+}
+
+.author-toggle {
+  color: var(--clay);
+  font-weight: 700;
 }
 
 .publication-content .author-details p {
