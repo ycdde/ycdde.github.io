@@ -272,51 +272,6 @@ h2 {
   line-height: 1.42;
 }
 
-.publication-content .authors-brief {
-  margin: 0;
-}
-
-.author-details {
-  margin: 7px 0 8px;
-  color: var(--ink-soft);
-  font-size: 13px;
-  line-height: 1.42;
-}
-
-.author-details summary {
-  display: inline;
-  color: var(--ink-soft);
-  cursor: pointer;
-  list-style: none;
-}
-
-.author-details summary::-webkit-details-marker {
-  display: none;
-}
-
-.author-details summary:hover,
-.author-details summary:focus {
-  color: var(--ink-soft);
-}
-
-.author-details summary:hover .author-toggle,
-.author-details summary:focus .author-toggle {
-  color: var(--clay-deep);
-  text-decoration: underline;
-  text-decoration-color: rgba(159, 75, 50, 0.35);
-}
-
-.author-toggle {
-  color: var(--clay);
-  font-weight: 700;
-}
-
-.publication-content .author-details p {
-  margin: 5px 0 0;
-  font-size: 13px;
-  line-height: 1.42;
-}
-
 .publication-content .paper-meta {
   display: flex;
   flex-wrap: wrap;
