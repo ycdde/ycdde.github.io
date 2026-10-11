@@ -85,7 +85,7 @@ strong { color: #333; }
 }
 .profile {
   display: grid;
-  grid-template-columns: minmax(0, 585px) minmax(0, 285px);
+  grid-template-columns: minmax(0, 616px) minmax(0, 254px);
   gap: 30px;
   align-items: center;
   margin-bottom: 24px;
