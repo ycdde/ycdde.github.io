@@ -141,11 +141,11 @@ h3 {
 .paper-title { margin: 0 0 8px; font-size: 16px; line-height: 1.5; }
 .paper-title a { color: #333; }
 .authors, .authors a { color: #777; }
-.venue { margin-top: 4px; color: green; }
+.publication-venue { margin-top: 4px; }
+.venue { color: green; }
 .award { color: #c62828; }
 .paper-links { display: flex; flex-wrap: wrap; gap: 0 12px; }
 .paper-description { margin-top: 12px; }
-.contribution { margin-top: 8px; font-size: 14px; color: #777; }
 footer { margin-top: 80px; padding-bottom: 32px; text-align: right; font-size: 14px; }
 
 @media (max-width: 680px) {
